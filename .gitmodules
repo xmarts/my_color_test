@@ -1,0 +1,3 @@
+[submodule "my_color_company"]
+	path = my_color_company
+	url = git@github.com:pabloosoriogama/my_color_company.git
